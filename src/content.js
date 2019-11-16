@@ -1,6 +1,4 @@
 export default [
-  "Anh yeu em",
-  "Anh yêu em",
   "I adore you",
   "I’m affectionate for you",
   "I’m attached to you",
