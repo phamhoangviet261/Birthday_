@@ -4,7 +4,7 @@ module.exports=__NEXT_REGISTER_PAGE("/",function(){var e=webpackJsonp([3],{181:f
 var T=["Hi Hien","Tonight is a special night","I'm in your house...","Your friends and you","...are reading it","Hmmmm,.....","If I make some mistake,..",
 "please forgive for me","Today is November 21st 2019","This is a mini gift","Hmmm,....","First,...","Do you love me?","3","2","1","I know your answer is YES",
 "I love you, too",".......","My Love","I have many things to say with you","Let's see......","Wishing you hapiness"," today","tomorrow","and always.","In 18 year-old",
-"I wish you"," always have"," good health","always smile","beside "some one"","hihi",
+"I wish you"," always have"," good health","always smile","beside some one ^^","hihi",
 "I adore you","I’m affectionate for you","I’m attached to you",
 "I’m enchanted by you","You’re my missing piece","You’re the only one for me","I’m totally devoted to you","I’m infatuated with you","I’m mad about you",
 "You’re all I see","I’m passionate about you","I’m enraptured with you","I relish you","You’re the light of my life","You’re my soft spot","I’m tender for you",
